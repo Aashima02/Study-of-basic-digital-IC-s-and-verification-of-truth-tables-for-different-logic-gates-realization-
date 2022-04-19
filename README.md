@@ -87,7 +87,8 @@ endmodule
 ```
 ## OUTPUT:
 ### Logic Symbol & Truthtable:
-![output](./truth1.png)
+![output2](https://user-images.githubusercontent.com/93427086/164050592-d2a9c08f-57e9-403f-acb0-be559aaf03a7.png)
+
 <br>
 
 ### RTL Realization: 
